@@ -30,12 +30,10 @@ const Header = () => {
                       <li><AccountBoxIcon /></li>
                       <li><ArrowDropDownIcon /></li>
                   </ul>
-
-
               </div>
           </div> 
     </div>
   )
 }
 
-export default Header
+export default Header;
